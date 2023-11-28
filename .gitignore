@@ -1,0 +1,7 @@
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Ignorar carpetas de configuración de Visual Studio
+.vs/
+.vscode/
